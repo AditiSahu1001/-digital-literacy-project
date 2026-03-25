@@ -4,7 +4,7 @@ This repository contains my Digital Literacy Project created as part of the CSE0
 
 ## Project Structure
 ├── README.md
-├── project-report.pdf
+├── report/
 ├── task-1-presentation/
 ├── task-2-portfolio/
 ├── task-3-platforms/
