@@ -1,1 +1,12 @@
-
+Stay Safe Online Checklist for College Students in India
+1. Never share your UPI PIN – Treat it like your ATM PIN; banks and apps will never ask for it.
+2. Verify payment requests – Always double-check QR codes or links before authorizing transactions.
+3. Avoid forwarding unknown SMS messages – Fraudsters may trick you into linking your mobile number to their UPI account.
+4. Use official apps only – Download banking and payment apps from trusted sources like Google Play Store or Apple App Store.
+5. Enable two-factor authentication (2FA) – Add an extra layer of security for email, social media, and financial accounts.
+6. Be cautious on public Wi-Fi – Avoid logging into banking or payment apps on unsecured networks.
+7. Regularly update passwords – Use strong, unique passwords for college portals, email, and financial accounts.
+8. Check app permissions – Don’t allow unnecessary access to contacts, SMS, or storage, especially for unknown apps.
+9. Stay alert to phishing emails – Fraudsters often impersonate professors, banks, or service providers to steal credentials.
+10. Report suspicious activity immediately – Use the National Cyber Crime Portal (cybercrime.gov.in) or call the 1930 helpline for assistance.
+This checklist blends financial safety (UPI-specific tips) with broader online security practices tailored for college students. By following these steps, you can reduce risks of fraud, identity theft, and data misuse while staying confident in your digital life.
