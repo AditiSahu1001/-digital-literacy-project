@@ -70,7 +70,9 @@ Just open and review the files in each folder to understand the work.
 Name: Aditi Sahu
 Reg no.: 25BCE10844
 Course: CSE0001 – Digital Literacy  
-University: VIT Bhopal University
+University: VIT Bhopal University  
 
 ---
 
+## Profile Links
+- GitHub: https://github.com/AditiSahu1001
