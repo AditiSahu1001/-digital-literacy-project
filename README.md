@@ -2,7 +2,7 @@
 # Overview
 This repository contains my Digital Literacy Project created as part of the CSE0001 course. The project demonstrates my understanding of digital tools, online safety, professional communication and responsible digital behavior.
 
-## Project Structure
+# Project Structure
 ├── README.md
 ├── project-report.pdf
 ├── task-1-presentation/
